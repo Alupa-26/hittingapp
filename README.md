@@ -1,3 +1,8 @@
+> **This app is live and maintained. Its analysis code now also lives in the flagship repo.**
+> The hitter app here is the deployed Streamlit dashboard and stays the source for that
+> deployment. The consolidated, tested version of the underlying analysis is at
+> [tdub29/baseball-analytics](https://github.com/tdub29/baseball-analytics) under `apps/hitter/`.
+
 # TORERO BASEBALL HITTER APP
 
 So much of this repo is thanks to the great work of Thomas Nestico, Kyle Bland, Max Bay, for providing examples of models or other essential code in their githubs.
