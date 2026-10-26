@@ -73,3 +73,7 @@ If your CSV uses different column names, update the `rename_mapping` dictionary 
    ```
 
 The app will download the default CSV from GitHub at runtime. To use a local file, replace `file_path` in `streamlit_app.py` with a local path.
+
+## More projects
+
+More of my work and contact details are at [twhite.dev](https://twhite.dev).
